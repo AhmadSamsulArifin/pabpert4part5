@@ -64,6 +64,10 @@ Fitur ini di gunakan pengguna untuk menambahkan produk ke dalam keranjang dengan
 
 
 
+
+
+
+
 2. Show cart items dengan quantity
 
 Halaman Cart menampilkan semua item yang sudah ditambahkan, lengkap dengan:
@@ -77,6 +81,10 @@ Halaman Cart menampilkan semua item yang sudah ditambahkan, lengkap dengan:
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7910008e-cc36-44d4-9971-59729d6a18bc" />
+
+
+
+
 
 
 
@@ -94,6 +102,10 @@ Jika quantity dikurangi hingga 0, item otomatis terhapus dari cart.
 
 
 
+
+
+
+
 4. Remove items from cart
 
 fitur delete dapat digunakan untuk menghapus item dari cart.
@@ -101,6 +113,10 @@ fitur delete dapat digunakan untuk menghapus item dari cart.
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/45f17ba4-e621-4457-879e-b7f8dcc4fc0e" />
+
+
+
+
 
 
 
@@ -128,6 +144,10 @@ fitur yang di gunakan untuk search bar pada halaman product list dan filter deng
 
 
 
+
+
+
+
 2. Categories
 
 Fitur ini dapat difilter berdasarkan kategori menggunakan dropdown. pengguna dapat memilih kategori tertentu untuk menampilkan produk yang sesuai.
@@ -135,6 +155,10 @@ Fitur ini dapat difilter berdasarkan kategori menggunakan dropdown. pengguna dap
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f458a3fb-ede0-4131-a2c2-744257360736" />
+
+
+
+
 
 
 
@@ -153,6 +177,10 @@ Setelah dikonfirmasi:
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06f7aae7-c628-4e32-ae6a-fd8269b2361f" />
+
+
+
+
 
 
 
